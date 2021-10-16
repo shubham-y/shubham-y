@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
 <h3 align="center">A passionate software engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-y" alt="views" /> </p>
 
 - 🌱 I’m currently learning NodeJS, ReactJS, VanillaJS, ExpressJS
 - 👯 I’m looking to collaborate on Open Source Projects
