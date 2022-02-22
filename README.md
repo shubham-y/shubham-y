@@ -15,7 +15,7 @@
 
 
 <p align="left">
-  <img align="left" alt="shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" style="margin-bottom:10px" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-y&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="languages" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="streak" height="165">
+  <img align="left" alt="shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" style="margin-bottom:10px" width="420" height="145"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-y&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="languages" height="145">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="streak" height="155">
 </p>
