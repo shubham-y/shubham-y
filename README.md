@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/shubham-y/shubham-y/main/wave.gif" width="10px" height="50px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/shubham-y/shubham-y/main/wave.gif" width="50px" height="50px">
 , I'm Shubham Yadav</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-y" alt="views" /> </p>
