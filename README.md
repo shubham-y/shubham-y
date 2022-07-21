@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-y" alt="views" /> </p>
 
 
-- 🌱 I’m currently learning NodeJS, ReactJS, VanillaJS, ExpressJS
+- 🌱 I’m currently learning Golang, Rust, Ember.js
 - 👯 I’m looking to collaborate on Open Source Projects
 
 ### 📝 How to contact me?
