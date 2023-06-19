@@ -34,10 +34,10 @@
 <br>
 <p align="left">
   <a href="https://github.com/shubham-y/shubham-y">
-    <img align="left" alt="shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" style="margin-bottom:10px" width="420" height="145"/>
+    <img align="left" alt="shubham's Github Stats" src="https://github-readme-stats-lilac-iota-93.vercel.app/api?username=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" style="margin-bottom:10px" width="420" height="145"/>
   </a>
   <a href="https://github.com/shubham-y/shubham-y">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-y&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="languages" height="145">
+    <img src="https://github-readme-stats-lilac-iota-93.vercel.app/api/top-langs/?username=shubham-y&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="languages" height="145">
   </a>
   <a href="https://github.com/shubham-y/shubham-y">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-y&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" alt="streak" height="155">
